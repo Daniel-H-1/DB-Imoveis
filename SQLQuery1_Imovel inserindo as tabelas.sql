@@ -1,4 +1,7 @@
-USE GTImoveis;
+USE CREATE DATABASE GTIimoveis;
+go
+
+USE GTIimoveis;
 go
 
 CREATE TABLE estado(
